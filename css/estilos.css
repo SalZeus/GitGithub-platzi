@@ -20,3 +20,9 @@ body
 {
     font-size: 20px;
 }
+#cabecera
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-style: italic;
+}
